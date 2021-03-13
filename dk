@@ -1,0 +1,251 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="da" lang="da">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- 
+	This website has been produced by Linkfactory A/S. Visit us at http://www.linkfactory.dk.
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2010 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="https://www.dk-hostmaster.dk/" />
+<link rel="shortcut icon" href="https://www.dk-hostmaster.dk/fileadmin/favicon.ico" type="image/x-ico; charset=binary" />
+<link rel="icon" href="https://www.dk-hostmaster.dk/fileadmin/favicon.ico" type="image/x-ico; charset=binary" />
+<title>DK Hostmaster A/S: Dansk</title>
+<meta name="generator" content="TYPO3 4.4 CMS" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_0f6c5c384c.css?1302773828" media="all" />
+
+
+
+<script src="typo3temp/javascript_0b12553063.js?1226491434" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" href="fileadmin/res/styles.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="fileadmin/res/ny_print.css" media="print" />
+
+<script src="fileadmin/res/jquery.js" type="text/javascript"></script>
+<script src="fileadmin/res/global.js" type="text/javascript"></script>
+
+
+<link rel="alternate stylesheet" href="fileadmin/res/font_11px.css" title="font_11px" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="fileadmin/res/font_12px.css" title="font_12px" type="text/css" media="screen, projection" />
+<link rel="alternate stylesheet" href="fileadmin/res/font_13px.css" title="font_13px" type="text/css" media="screen, projection" />
+    <link rel="alternate" type="application/rss+xml" title="DK Hostmaster A/S: Nyheder" href="https://www.dk-hostmaster.dk/index.php?id=9&amp;type=100" />
+    <link rel="alternate" type="application/rss+xml" title="DK Hostmaster A/S: News" href="https://www.dk-hostmaster.dk/index.php?id=30&amp;type=100" />
+
+
+</head>
+<body>
+
+<!---->
+	<div id="page">
+		<div class="main">
+			<div id="header">
+				<div class="logo"><div id="c447" class="csc-default" ><strong class="logo"><a href="/" title="Link til forside"><img src="fileadmin/images/logo_02.gif" alt="DK Hostmaster A/S" /></a></strong>
+</div></div>
+				<div class="header-right">
+					<div class="header-info">
+						<span><div id="c439" class="csc-default" >Danmarks plads på Internet</div></span>
+						<div id="c438" class="csc-default" ><ul class="contacts">
+<li><strong>DK Hostmaster A/S</strong></li>
+	<li>CVR nr. 24210375</li>
+	<li>Tlf.: 3364 6060</li>
+	<li>Fax: 3364 6066</li>
+<li>
+<a title="print" href="javascript:window.print();"><img src="fileadmin/images/printer_icon.gif" alt="Print"/></a>
+<a title="E-mail" href="mailto:&#105;&#110;&#102;&#111;&#064;&#100;&#107;&#045;&#104;&#111;&#115;&#116;&#109;&#097;&#115;&#116;&#101;&#114;&#046;&#100;&#107;"><img src="fileadmin/images/email.gif" alt="E-mail" /></a>
+</li>
+</ul></div>
+					</div>
+					<div class="nav-holder"><div id="c446" class="csc-default" ><div class="left">
+<ul class="nav">
+	<li><a href="english">English</a></li>
+	<li><a href="presse">Presse</a></li>
+	<li><a href="om-dk-hostmaster">Om DK Hostmaster</a></li>
+	<!--<li><a href="faq">FAQ</a></li>-->
+	<li class="last"><a href="sitemap">Sitemap</a></li>
+</ul>
+</div>
+	<div class="right">
+		<form name="tx_indexedsearch_top" method="post" action="soegning">
+				<input class="txt" type="text" name="tx_indexedsearch[sword]"/>
+				<input type="hidden" value="rl1_334" name="tx_indexedsearch[sections]" />
+				<input type="hidden" value="0" name="tx_indexedsearch[pointer]"/>
+				<input type="hidden" value="0" name="tx_indexedsearch[ext]"/>
+				<!-- <input type="image" src="fileadmin/images/search.gif" class="search"/> -->
+				<input type="submit" value="Søg" class="nicebutton" style="height:21px"/>
+		</form>
+	</div></div></div>
+				</div>
+			</div>
+			<div id="content">
+				<div class="side-bar">
+					<div class="side-bar-menu"><ul><li><a href="selvbetjening/?no_cache=1"  >Selvbetjening</a><ul><li><a href="selvbetjening/betaling/?no_cache=1" onfocus="blurLink(this);"  >Betaling</a></li><li><a href="selvbetjening/bekraeftaktiver-domaenenavn/?no_cache=1" onfocus="blurLink(this);"  >Bekræft/aktiver domænenavn</a></li><li><a href="selvbetjening/find-dk-domaenenavn/?no_cache=1" onfocus="blurLink(this);"  >Find .dk-domænenavn</a></li><li><a href="selvbetjening/genopret-domaenenavn/?no_cache=1" onfocus="blurLink(this);"  >Genopret domænenavn</a></li><li><a href="selvbetjening/redeleger-domaenenavn/" onfocus="blurLink(this);"  >Redeleger domænenavn</a></li><li><a href="selvbetjening/formularer/" onfocus="blurLink(this);"  >Formularer</a><li><a href="selvbetjening/venteliste/?no_cache=1" onfocus="blurLink(this);"  >Venteliste</a></li><li><a href="selvbetjening/glemt-adgangskode/" onfocus="blurLink(this);"  >Glemt adgangskode?</a></li><li><a href="selvbetjening/tips-raad/" onfocus="blurLink(this);"  >Tips & råd</a></li><li><a href="selvbetjening/ean-lokationsnummer/" onfocus="blurLink(this);"  >EAN lokationsnummer</a></li><li><a href="selvbetjening/koeb-dk-domaenenavn/" onfocus="blurLink(this);"  >Køb .dk-domænenavn</a><li><a href="selvbetjening/priser/" onfocus="blurLink(this);"  >Priser</a></li><li><a href="selvbetjening/varsling/" onfocus="blurLink(this);"  >Varsling</a></li><li><a href="selvbetjening/adgangskodepinkode/" onfocus="blurLink(this);"  >Adgangskode/pinkode</a></li></ul></li><li><a href="teknisk-administration/"  >Teknisk administration</a><ul><li><a href="teknisk-administration/registratorer/" onfocus="blurLink(this);"  >Registratorer</a><li><a href="teknisk-administration/navneserveransvarlige/" onfocus="blurLink(this);"  >Navneserveransvarlige</a></ul></li><li><a href="lovstof-regler/"  >Lovstof & Regler</a><ul><li><a href="lovstof-regler/forretningsbetingelser/" onfocus="blurLink(this);"  >Forretningsbetingelser</a><li><a href="lovstof-regler/persondatapolitik/" onfocus="blurLink(this);"  >Persondatapolitik</a><li><a href="lovstof-regler/regler-om-klagenaevn-for-internetdomaenenavne/" target="_blank" onfocus="blurLink(this);"  >Regler om Klagenævn for internetdomænenavne</a></li><li><a href="lovstof-regler/betaenkning-om-administration-af-domaenenavne-i-danmark/" target="_Blank" onfocus="blurLink(this);"  >Betænkning om administration af domænenavne i Danmark</a></li><li><a href="lovstof-regler/lov-om-internetdomaener/" onfocus="blurLink(this);"  >Lov om internetdomæner</a></li></ul></li><li><a href="klager-og-suspension/"  >Klager og Suspension</a><ul><li><a href="klager-og-suspension/suspension/" onfocus="blurLink(this);"  >Suspension</a><li><a href="klager-og-suspension/klager/" onfocus="blurLink(this);"  >Klager</a></ul></li><li><a href="noter-om-teknik/"  >Noter om teknik</a><ul><li><a href="noter-om-teknik/glue-record-politik/" onfocus="blurLink(this);"  >Glue-record-politik</a></li><li><a href="noter-om-teknik/tcp-obligatorisk-for-dns/" onfocus="blurLink(this);"  >TCP obligatorisk for DNS</a></li><li><a href="noter-om-teknik/dnssec/" onfocus="blurLink(this);"  >DNSSEC</a><li><a href="noter-om-teknik/whois-service/" onfocus="blurLink(this);"  >Whois-service</a></li><li><a href="noter-om-teknik/kodeord/" onfocus="blurLink(this);"  >Kodeord</a></li></ul></li><li><a href="kontakt/"  >Kontakt</a></li><li><a href="presse/statistik/"  >Statistik</a></li><li><a href="https://www.dk-hostmaster.dk/"  >Forside</a></li></ul><a target="_blank" href="fileadmin/filer/pdf/velkommen.pdf"><img alt=" " src="fileadmin/filer/grafik/velkommen.jpg"/></a><div id="c448" class="csc-default" >
+<div class="link-box">
+	<h2>Selvbetjening</h2>
+	<div class="inner"><div id="c653" class="csc-frame csc-frame-invisible" ><iframe
+  src="/inc_small_login_box.php"
+  width="150px"
+  height="100px"
+  scrolling="no"
+  frameborder="0"
+>
+Din browser understøtter ikke IFRAMEs. For at logge ind i vores selvbetjening,
+skal du derfor trykke på menupunktet "Selvbetjening" i menuen til venstre.
+  </iframe>
+</div></div>
+</div>
+</div></div>
+					<div class="side-bar-content"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--></div>
+				</div>
+				<div class="page-img"><img src="fileadmin/filer/forside_billeder/Forside_008.jpg" width="589" height="107" border="0" class="bannerborder" alt="" title="" /></div>
+<div class="right-column"><div id="c441" class="csc-default" >
+<div class="right-txt">
+	<h2 class="seneste">Seneste nyt</h2>
+	<div class="inner"><div id="c440" class="csc-default" >
+<div class="news_latest_container">
+	
+			  <div class="date">
+			  	<span>03-05-12 13:19</span>			
+				<a href="udmeldinger-over-tid/aktuelt/artikel/mandag-den-7-maj-2012-aabner-telefonbetjeningen-lidt-senere/" title="Mandag den 7. maj 2012 åbner telefonbetjeningen lidt senere">Mandag den 7. maj 2012 åbner telefonbetjeningen lidt senere</a>
+				<p class="bodytext">Normalt åbner vi for telefonhenvendelse kl. 09.00 om mandagen. Men mandag den 7. maj 2012 åbner...</p>
+			  </div>
+
+		
+			  <div class="date">
+			  	<span>13-04-12 09:39</span>			
+				<a href="udmeldinger-over-tid/aktuelt/artikel/difo-holder-torsdag-den-22-november-2012-aarets-konference-om-fremtidens/" title="Internetdagen 2012">Internetdagen 2012</a>
+				<p class="bodytext">DIFO holder torsdag den 22. november 2012 årets konference om fremtidens internet - Internetdagen...</p>
+			  </div>
+
+		
+			  <div class="date">
+			  	<span>21-03-12 12:25</span>			
+				<a href="udmeldinger-over-tid/aktuelt/artikel/dk-hostmaster-og-difo-holder-foraarets-registratormoeder/" title="DK Hostmaster og DIFO holder forårets registratormøder">DK Hostmaster og DIFO holder forårets registratormøder</a>
+				<p class="bodytext">Så er tiden kommet, hvor vi igen afholder registratormøder i hhv. København og Århus. Dagsordenen...</p>
+			  </div>
+
+		
+			  <div class="date">
+			  	<span>10-01-12 10:13</span>			
+				<a href="https://www.dk-hostmaster.dk/presse/statistik/brugerundersoegelser/" target="_top" title="DK Hostmaster har gennemført en tilfredshedsundersøgelse blandt registratorer. Klik her for at læse rapporten og resume af undersøgelsen">DK Hostmaster har gennemført en tilfredshedsundersøgelse blandt registratorer. Klik her for at læse rapporten og resume af undersøgelsen</a>
+				
+			  </div>
+
+		
+			  <div class="date">
+			  	<span>30-06-11 14:07</span>			
+				<a href="http://www.internetdagen.dk/" target="_top" title="DIFO er nu klar med programmet til årets internetkonference Internetdagen 2011. Se program og tilmeld dig på www.internetdagen.dk">DIFO er nu klar med programmet til årets internetkonference Internetdagen 2011. Se program og tilmeld dig på www.internetdagen.dk</a>
+				
+			  </div>
+
+		
+</div>
+</div></div>
+</div>
+</div><div id="c443" class="csc-default" >
+<div class="right-txt">
+	<h2 class="seneste">Forslag til DK Hostmaster</h2>
+	<div class="inner"><div id="c442" class="csc-default" ><form action="/index.php?id=437" method="post">
+<input type="hidden" name="opret_forslag" value="yes" />
+<p>Kom med forslag eller ønsker til forbedringer af DK Hostmasters service.<br/><br />
+Du kan ikke få hjælp til dit domænenavn via forslagskassen. Du er derimod velkommen til at sende en e-mail til info@dk-hostmaster.dk, hvis du har spørgsmål til dit domænenavn.<br/>
+<a href="/Forslag-til-DK-Hostmaster">Se indkomne forslag.</a></p>
+	<table cellspacing="1" style="margin-left:13px; margin-right:16px;">
+		<tr>
+			<td align="left" valign="top">Navn:<br/><input type="text" name="navn" style="width: 200px" /></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">Forslag:<br/><textarea name="forslag" style="width: 200px; height: 100px"></textarea></td>
+		</tr>
+		<tr>
+			<td align="right"><input class="nicebutton" type="submit" value="Send" /></td>
+		</tr>
+	</table>
+	</form></div></div>
+</div>
+</div></div>				
+				<div class="main-content"><!--TYPO3SEARCH_begin--><div id="c450" class="csc-default" >
+	<div class="main-txt"><div id="c459" class="csc-default" ><div class="csc-header csc-header-n1"><h2 class="csc-firstHeader">Velkommen til DK Hostmaster</h2></div><p class="bodytext">Her finder du vejledning og information i forhold til de domænenavne, der ender på .dk.</p>
+<p class="bodytext">Via Selvbetjeningen kan du administrere det meste omkring dit .dk-domænenavn.</p>
+<p class="bodytext">Er du i tvivl om noget, har du mulighed for at bruge vores søgefelt. </p>
+<p class="bodytext">Klik <a href="kontakt/" target="_self" >her</a>, hvis du vil i kontakt med os.<br /><br /></p></div></div>
+	<div class="content-links"><div id="c453" class="csc-default" >
+<div class="link-box">
+	<h2>Find .dk domænenavn</h2>
+	<div class="inner"><div id="c454" class="csc-default" ><form action="index.php" method="get" name="finddk" id="finddk">
+<input type="hidden" name="id" value="42" />
+<table cellspacing="2">
+              <tr> 
+                <td align="left"><input name="query" type="text" id="query" size="22" maxlength="66" class="domain" /></td>
+                <td align="right"><input class="nicebutton" type="submit" name="submit" align="bottom" alt="" title="" value="Søg" /></td>
+              </tr>
+              <tr> 
+                <td colspan="2">Skriv "domænenavn.dk" og se, om domænenavnet er optaget/reserveret. <br />
+</td>
+              </tr>
+</table>
+</form></div></div>
+</div>
+</div><div id="c455" class="csc-default" >
+<div class="link-box">
+	<h2>Onlinebetaling</h2>
+	<div class="inner"><div id="c456" class="csc-default" ><form action="index.php" method="get">
+<input type="hidden" name="id" value="6" />
+<input type="hidden" name="area" value="betal" />
+<table cellspacing="2">
+              <tr>
+<td colspan="3">
+<table cellspacing="0">
+<tr>
+<td width="80%">Betal din faktura fra DK Hostmaster.</td>
+<td width="20%" valign="top"><a href="http://www.e-maerket.dk/sw146.asp?URL=www.dk-hostmaster.dk"><img src="/fileadmin/images/emaerke-small.gif" alt="e-maerket" /></a></td>
+</tr>
+</table>
+</td>
+              </tr>
+              <tr> 
+                <td height="5" colspan="3"></td>
+              </tr>
+              <tr> 
+                <td><strong>Bruger-id:</strong></td>
+                <td colspan="2" align="right"><input name="kontonummer" type="text" size="15" class="kontonummer" maxlength="66" /></td>
+              </tr>
+              <tr> 
+                <td><strong>Fakturanummer:</strong></td>
+                <td colspan="2" align="right"><input name="fakturanummer" type="text" class="fakturanummer" size="15" maxlength="66" /></td>
+              </tr>
+              <tr> 
+                <td colspan="3" align="right"><input class="nicebutton" type="submit" name="submit" align="bottom" alt="" title="" value="Log ind" /></td>
+              </tr>
+            </table>
+</form>
+
+</div></div>
+</div>
+</div><div id="c679" class="csc-default" >
+<div class="link-box">
+	<h2>Giv os din mening om os</h2>
+	<div class="inner"><div id="c680" class="csc-default" ><p class="bodytext">DK Hostmaster ønsker at høre din mening. Vi gennemfører en tilfredshedsundersøgelse, og vi håber, at du vil bidrage med din mening.</p>
+<p class="bodytext">Klik&nbsp;<a href="http://www.survey-xact.dk/LinkCollector?key=DDPJU4PN3K96" target="_blank" >her</a>&nbsp;for at deltage.</p></div></div>
+</div>
+</div></div>
+</div><!--TYPO3SEARCH_end--></div>
+				
+			</div>
+		</div>
+		<div id="footer"><div id="c444" class="csc-default" ><a href="/information-om-cookies/">Information om cookies</a></div></div>
+	</div>
+
+
+
+
+</body>
+</html>
